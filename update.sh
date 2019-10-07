@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ARTIFACT="FocusTvButton"
+ARTIFACT="FocusTvButton.zip"
 UPSTREAM="git@github.com:StreamLayer/FocusTvButton.git"
 
 ### Cleanup, build, archive
