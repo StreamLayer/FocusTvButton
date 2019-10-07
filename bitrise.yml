@@ -38,5 +38,5 @@ workflows:
 
 app:
   envs:
-  - ARTIFACT: "FocusTvButton.framework.zip"
+  - ARTIFACT: "FocusTvButton.zip"
   - UPSTREAM: "git@github.com:StreamLayer/FocusTvButton.git"

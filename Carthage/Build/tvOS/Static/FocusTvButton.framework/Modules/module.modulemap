@@ -1,0 +1,11 @@
+framework module FocusTvButton {
+  umbrella header "FocusTvButton.h"
+
+  export *
+  module * { export * }
+}
+
+module FocusTvButton.Swift {
+    header "FocusTvButton-Swift.h"
+    requires objc
+}
