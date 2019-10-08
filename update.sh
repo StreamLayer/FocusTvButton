@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ARTIFACT="FocusTvButton.zip"
-UPSTREAM="git@github.com:StreamLayer/FocusTvButton.git"
+ARTIFACT="FocusTvButton.framework.zip"
+UPSTREAM="git@github.com:dcordero/FocusTvButton.git"
 
 ### Cleanup, build, archive
 rm -rf ./Carthage/ ./DerivedData
