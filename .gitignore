@@ -8,3 +8,6 @@ FocusTvButton/FocusTvButtonTests/Snap/Failed
 DerivedData/
 
 Carthage/*
+node_modules/
+*.lock
+*.zip

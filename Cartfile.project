@@ -1,0 +1,5 @@
+FocusTvButton:
+  project: FocusTvButton.xcodeproj
+  sdks:
+  - appletvos
+  - appletvsimulator
